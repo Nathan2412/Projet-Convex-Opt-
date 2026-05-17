@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+tensorflow; python_version < "3.14"
+matplotlib
+seaborn
+ipython
