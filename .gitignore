@@ -15,7 +15,7 @@ ENV/
 .vscode/
 
 # Data
-spotify_data.csv
+# spotify_data.csv (maintenant géré avec Git LFS)
 
 # Outputs and models
 outputs/
